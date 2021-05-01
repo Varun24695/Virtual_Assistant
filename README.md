@@ -1,0 +1,3 @@
+# Virtual_Assistant
+# basic questions can be answered like alexa .......your question....
+it will trained completely in upcoming days
